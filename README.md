@@ -1,5 +1,4 @@
-# Apple Consumer Electronics Retail Analytics
-
+# Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
 An end-to-end SQL analytics project built on a **1M+ row synthetic retail sales dataset** covering products, stores, transactions, categories, and warranty claims.
 
 This project simulates a real-world **consumer electronics retail analytics use case** and focuses on:
