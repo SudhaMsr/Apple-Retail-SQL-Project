@@ -1,4 +1,4 @@
-# Consumer Electronics Retail Analytics
+# Apple Consumer Electronics Retail Analytics
 
 An end-to-end SQL analytics project built on a **1M+ row synthetic retail sales dataset** covering products, stores, transactions, categories, and warranty claims.
 
